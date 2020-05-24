@@ -33,11 +33,11 @@ const GlobalStyles = createGlobalStyle`
     background: #16202c;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
-  ol, ul {
-    list-style: none;
-  }
   blockquote, q {
     quotes: none;
+  }
+  ol, ul {
+    list-style: none;
   }
   a {
     color: #fff;
